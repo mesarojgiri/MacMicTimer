@@ -2,6 +2,10 @@
 
 MicTimer is a native macOS menu-bar app that measures time while the system input device is active.
 
+## Download and run
+
+Download MacMicTimer.app.zip and run it directly. 
+
 ## Build and run
 
 1. Open `MicTimer.xcodeproj` in Xcode 14 or newer on an Apple Silicon Mac.
